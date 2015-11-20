@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FS3DScrollBanner
 //
-//  Created by FS小一 on 15/10/31.
+//  Created by FS小一 on 15/7/31.
 //  Copyright © 2015年 FSxiaoyi. All rights reserved.
 //
 
